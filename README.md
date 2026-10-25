@@ -24,3 +24,6 @@ Track your hours → one command → invoice data. No copy-pasting timesheets.
 
 ## License
 MIT
+
+## Pairs with
+**[Invoice Generator](https://github.com/moneyhoneypot98-star/invoice-generator)** — turn the exported JSON into a professional PDF-ready invoice in one command.
