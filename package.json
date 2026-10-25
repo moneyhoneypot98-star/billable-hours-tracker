@@ -1,0 +1,12 @@
+{
+  "name": "billable-hours-tracker",
+  "version": "1.0.0",
+  "description": "CLI time tracker that exports invoice-ready JSON. Pairs with the Invoice Generator.",
+  "main": "hours.js",
+  "scripts": {
+    "start": "node hours.js"
+  },
+  "keywords": ["time-tracking", "billable-hours", "freelance", "invoice", "cli"],
+  "author": "Manny Guzman (Poseidon)",
+  "license": "MIT"
+}
